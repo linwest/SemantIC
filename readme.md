@@ -27,7 +27,7 @@ The source codes of example semantic neural network, “googlenet_train.py” an
 This framework can be adaptive to other semantic neural network by revising the class “SemanticNN” in “SemantIC.py”.
 
 ## Citation
-BibTeX infomation:
+BibTeX information:
 ```
 @article{lin2023SemantIC,
   title={{SemantIC}: {Semantic} Interference Cancellation Towards {6G} Wireless Communications},
