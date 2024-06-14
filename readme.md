@@ -1,7 +1,9 @@
 # SemantIC: Semantic Interference Cancellation Towards 6G Wireless Communications
-Example codes for the paper “SemantIC: Semantic Interference Cancellation Towards 6G Wireless Communications”.
+Example codes for the paper “SemantIC: Semantic Interference Cancellation Towards 6G Wireless Communications”, which has been accepted for publication in IEEE Communications Letters with DOI: 10.1109/LCOMM.2024.3412973.
 
 arXiv: https://arxiv.org/abs/2310.12768
+
+IEEE Xplore: https://ieeexplore.ieee.org/document/10553320 
 
 
 ## Instruction
@@ -29,11 +31,12 @@ This framework can be adaptive to other semantic neural network by revising the 
 ## Citation
 BibTeX information:
 ```
-@article{lin2023SemantIC,
-  title={{SemantIC}: {Semantic} Interference Cancellation Towards {6G} Wireless Communications},
-  author={Wensheng Lin and Yuna Yan and Lixin Li and Zhu Han and Tad Matsumoto},
-  journal={arXiv preprint arXiv:2310.12768},
-  year={2023}
+@Article{lin2024SemantIC,
+  author  = {Wensheng Lin and Yuna Yan and Lixin Li and Zhu Han and Tad Matsumoto},
+  journal = {IEEE Communications Letters},
+  title   = {{SemantIC}: {Semantic} Interference Cancellation Toward {6G} Wireless Communications},
+  year    = {2024},
+  doi     = {10.1109/LCOMM.2024.3412973}
 }
 ```
 
